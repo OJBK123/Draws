@@ -4,20 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="740" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-4" value="今日已检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="325" width="310" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-2" value="历史未检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-1" value="今日应检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="270" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-4" value="今日已检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="340" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-3" value="历史应检今日已检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="330" width="130" height="80" as="geometry" />
+          <mxGeometry x="414" y="350" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-5" value="今日已检&amp;lt;&lt;span style=&quot;background-color: initial;&quot;&gt;=History+今日应检&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="150" y="85" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="30" y="660" width="740" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-9" value="今日已检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="610" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-10" value="历史未检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-11" value="今日应检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FPQ1UvC064AS9Qw-Qcx7-12" value="历史应检今日已检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="840" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
