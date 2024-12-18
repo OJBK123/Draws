@@ -5,7 +5,11 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="FPQ1UvC064AS9Qw-Qcx7-6" target="FPQ1UvC064AS9Qw-Qcx7-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-15" value="拣货目标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="FPQ1UvC064AS9Qw-Qcx7-13">
           <mxGeometry x="-0.0421" relative="1" as="geometry">
