@@ -23,7 +23,7 @@
           <mxGeometry x="150" y="85" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="30" y="660" width="740" height="450" as="geometry" />
+          <mxGeometry x="20" y="650" width="740" height="450" as="geometry" />
         </mxCell>
         <mxCell id="FPQ1UvC064AS9Qw-Qcx7-9" value="今日已检" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="610" height="415" as="geometry" />
