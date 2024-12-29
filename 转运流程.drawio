@@ -188,11 +188,26 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9w91YunXFhDfzv0uC51w" name="一件待发">
-    <mxGraphModel dx="1647" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="9w91YunXFhDfzv0uC51w" name="一件代发">
+    <mxGraphModel dx="1136" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h8j9CAj5YIdvkqmgDtY6-1" value="一件代发" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;rounded=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="910" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="h8j9CAj5YIdvkqmgDtY6-2" value="OMS" style="swimlane;startSize=20;horizontal=0;html=1;rounded=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="h8j9CAj5YIdvkqmgDtY6-1">
+          <mxGeometry y="20" width="910" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="h8j9CAj5YIdvkqmgDtY6-5" value="OMS" style="swimlane;startSize=20;horizontal=0;html=1;rounded=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="h8j9CAj5YIdvkqmgDtY6-1">
+          <mxGeometry y="220" width="910" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="h8j9CAj5YIdvkqmgDtY6-3" value="WMS" style="swimlane;startSize=20;horizontal=0;html=1;rounded=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="h8j9CAj5YIdvkqmgDtY6-1">
+          <mxGeometry y="420" width="910" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="h8j9CAj5YIdvkqmgDtY6-4" value="PDA" style="swimlane;startSize=20;horizontal=0;html=1;rounded=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="h8j9CAj5YIdvkqmgDtY6-1">
+          <mxGeometry y="670" width="910" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
