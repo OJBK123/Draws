@@ -154,9 +154,9 @@
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="VdxOH2AFOqyBAfq9SQBN-3" source="VdxOH2AFOqyBAfq9SQBN-11" target="vZG5apSwI-n8GqKCy2aO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdxOH2AFOqyBAfq9SQBN-22" value="报告缺货(标记拣货单缺货)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VdxOH2AFOqyBAfq9SQBN-21" vertex="1" connectable="0">
+        <mxCell id="VdxOH2AFOqyBAfq9SQBN-22" value="报告缺货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VdxOH2AFOqyBAfq9SQBN-21" vertex="1" connectable="0">
           <mxGeometry x="-0.1423" relative="1" as="geometry">
-            <mxPoint x="11" y="59" as="offset" />
+            <mxPoint x="11" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="VdxOH2AFOqyBAfq9SQBN-3" source="VdxOH2AFOqyBAfq9SQBN-27" target="VdxOH2AFOqyBAfq9SQBN-43" edge="1">
