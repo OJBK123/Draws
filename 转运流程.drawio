@@ -258,7 +258,7 @@
         <mxCell id="y436x24-n_AV841INE1U-30" value="拣货中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="VdxOH2AFOqyBAfq9SQBN-4">
           <mxGeometry x="515" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y436x24-n_AV841INE1U-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.394;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="VdxOH2AFOqyBAfq9SQBN-4" source="y436x24-n_AV841INE1U-30" target="VdxOH2AFOqyBAfq9SQBN-16">
+        <mxCell id="y436x24-n_AV841INE1U-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.394;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=0;" edge="1" parent="VdxOH2AFOqyBAfq9SQBN-4" source="y436x24-n_AV841INE1U-30" target="VdxOH2AFOqyBAfq9SQBN-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y436x24-n_AV841INE1U-37" value="减少正常库位占用和系统占用（未拣货部分），转移TBD-Trans库存和占用到TBD-PA上面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VdxOH2AFOqyBAfq9SQBN-4">
