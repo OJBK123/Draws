@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-3" value="转运缺货流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="30" width="1180" height="1010" as="geometry" />
+          <mxGeometry x="70" y="30" width="1180" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-23" value="OMS" style="swimlane;startSize=20;horizontal=0;html=1;" parent="VdxOH2AFOqyBAfq9SQBN-3" vertex="1">
           <mxGeometry y="20" width="1180" height="260" as="geometry" />
@@ -159,7 +159,7 @@
           <mxGeometry x="399" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-5" value="PDA" style="swimlane;startSize=20;horizontal=0;html=1;" parent="VdxOH2AFOqyBAfq9SQBN-3" vertex="1">
-          <mxGeometry y="680" width="1180" height="330" as="geometry" />
+          <mxGeometry y="680" width="1180" height="490" as="geometry" />
         </mxCell>
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-7" value="拣货(B2B PICK)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="VdxOH2AFOqyBAfq9SQBN-5" vertex="1">
           <mxGeometry x="170" y="110" width="120" height="40" as="geometry" />
@@ -191,7 +191,7 @@
         <mxCell id="VdxOH2AFOqyBAfq9SQBN-72" value="正常库位库存和库存占用转移到TBD-Trans库位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="VdxOH2AFOqyBAfq9SQBN-5" vertex="1">
           <mxGeometry x="890" y="110" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VdxOH2AFOqyBAfq9SQBN-5" source="Y7k-iP7Pv7-lgG9X4EsP-6" target="Y7k-iP7Pv7-lgG9X4EsP-8">
+        <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VdxOH2AFOqyBAfq9SQBN-5" source="Y7k-iP7Pv7-lgG9X4EsP-6" target="Y7k-iP7Pv7-lgG9X4EsP-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-6" value="部分拣货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="VdxOH2AFOqyBAfq9SQBN-5">
@@ -208,10 +208,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-8" value="正常库位库存和库存占用转移到TBD-Trans库位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VdxOH2AFOqyBAfq9SQBN-5">
-          <mxGeometry x="95" y="240" width="270" height="40" as="geometry" />
+          <mxGeometry x="95" y="360" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="VdxOH2AFOqyBAfq9SQBN-5" source="Y7k-iP7Pv7-lgG9X4EsP-8" target="VdxOH2AFOqyBAfq9SQBN-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VdxOH2AFOqyBAfq9SQBN-5" source="Y7k-iP7Pv7-lgG9X4EsP-13" target="Y7k-iP7Pv7-lgG9X4EsP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-13" value="Pick or OOS" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="VdxOH2AFOqyBAfq9SQBN-5">
+          <mxGeometry x="419" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
