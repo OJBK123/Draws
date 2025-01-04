@@ -515,6 +515,21 @@
             <mxPoint x="2650" y="90.33333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-6" value="拣货完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk5Zg3-LOdlXnTiTxK3o-2">
+          <mxGeometry x="-0.5772" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3I78a54wN-ghRekJCgNB-1" target="uk5Zg3-LOdlXnTiTxK3o-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2473" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-5" value="缺货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk5Zg3-LOdlXnTiTxK3o-4">
+          <mxGeometry x="-0.632" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3I78a54wN-ghRekJCgNB-1" value="是否拣货完成" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2420" y="50" width="105" height="80" as="geometry" />
         </mxCell>
@@ -526,6 +541,26 @@
         </mxCell>
         <mxCell id="uk5Zg3-LOdlXnTiTxK3o-3" value="待发货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2700.0000000000005" y="70.00333333333337" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2834.996666666667" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uk5Zg3-LOdlXnTiTxK3o-8" target="uk5Zg3-LOdlXnTiTxK3o-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-8" value="标记库位缺货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2413" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uk5Zg3-LOdlXnTiTxK3o-10" target="uk5Zg3-LOdlXnTiTxK3o-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2472.666666666667" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-10" value="OOS Notice" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2412.5" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5Zg3-LOdlXnTiTxK3o-13" value="缺货确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2432.496666666667" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
