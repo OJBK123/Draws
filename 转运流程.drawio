@@ -1373,13 +1373,13 @@
             <mxPoint x="1569" y="839.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-75" value="增加虚拟库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-75" value="增加虚拟库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1363" y="819.6666666666667" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-76" value="减少WMS系统库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-76" value="减少WMS系统库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1363" y="859.6666666666667" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-77" value="减少WMS库位库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-77" value="减少WMS库位库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1363" y="899.6666666666667" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5OYyE5JFXnI4N3Eb_LI-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="R5OYyE5JFXnI4N3Eb_LI-87" target="R5OYyE5JFXnI4N3Eb_LI-79" parent="1">
@@ -1390,28 +1390,28 @@
         <mxCell id="R5OYyE5JFXnI4N3Eb_LI-79" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1113.8333333333335" y="1119.5" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-80" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-80" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="819.9133333333335" y="944.5" width="120.16666666666652" height="119.99666666666678" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-81" value="清空虚拟库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-80">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-81" value="清空虚拟库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-80">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-82" value="减少WMS+OMS系统库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-80">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-82" value="减少WMS+OMS系统库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-80">
           <mxGeometry x="0.16666666666651508" y="39.99666666666678" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-83" value="减少WMS库位库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-80">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-83" value="减少WMS库位库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-80">
           <mxGeometry x="0.16666666666651508" y="79.99666666666678" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-84" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-84" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1088.8333333333335" y="954.5" width="120.16666666666652" height="119.99666666666678" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-85" value="清空虚拟库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-84">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-85" value="清空虚拟库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-84">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-86" value="减少WMS+OMS系统库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-84">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-86" value="减少WMS+OMS系统库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-84">
           <mxGeometry x="0.16666666666651508" y="39.99666666666678" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-87" value="减少WMS库位库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-84">
+        <mxCell id="R5OYyE5JFXnI4N3Eb_LI-87" value="减少WMS库位库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R5OYyE5JFXnI4N3Eb_LI-84">
           <mxGeometry x="0.16666666666651508" y="79.99666666666678" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5OYyE5JFXnI4N3Eb_LI-88" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
