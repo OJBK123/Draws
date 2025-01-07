@@ -859,20 +859,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4VVVo0Eax6qm85gh6dbr-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="150" y="150" width="60" height="30" as="geometry">
-            <mxRectangle x="150" y="150" width="1430" height="1180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4VVVo0Eax6qm85gh6dbr-2" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="4VVVo0Eax6qm85gh6dbr-1">
-          <mxGeometry y="20" width="1430" height="430" as="geometry" />
-        </mxCell>
-        <mxCell id="4VVVo0Eax6qm85gh6dbr-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="4VVVo0Eax6qm85gh6dbr-1">
-          <mxGeometry y="450" width="1430" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="4VVVo0Eax6qm85gh6dbr-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="4VVVo0Eax6qm85gh6dbr-1">
-          <mxGeometry y="790" width="1430" height="390" as="geometry" />
-        </mxCell>
         <mxCell id="Fex296MS-IYZuVuSWn3v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VVVo0Eax6qm85gh6dbr-5" target="4VVVo0Eax6qm85gh6dbr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1071,7 +1057,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3XjrAtCkzSCykt8DBbi-53" value="增加拣货单已拣货数量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="-285" width="120" height="40" as="geometry" />
+          <mxGeometry x="2230" y="-285" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
