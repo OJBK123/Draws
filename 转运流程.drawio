@@ -1940,7 +1940,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oE1U_sZdBq5M1OYHv1fA" name="T-盘点">
-    <mxGraphModel dx="1620" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1994" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2075,10 +2075,10 @@
           <mxGeometry x="505" y="508" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-67" value="缺货确认" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="130" y="940" width="1200" height="1070" as="geometry" />
+          <mxGeometry x="150" y="880" width="1200" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-68" value="PDA" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Yw-2pi-LAQc_yanO8KfS-67">
-          <mxGeometry x="290" y="70" width="100" height="970" as="geometry" />
+          <mxGeometry x="290" y="70" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-69" value="仓库服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Yw-2pi-LAQc_yanO8KfS-67">
           <mxGeometry x="470" y="70" width="100" height="1000" as="geometry" />
@@ -2087,15 +2087,15 @@
           <mxGeometry x="45" y="83" width="10" height="797" as="geometry" />
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-71" value="" style="group" vertex="1" connectable="0" parent="Yw-2pi-LAQc_yanO8KfS-67">
-          <mxGeometry x="120" y="50" width="50" height="1000" as="geometry" />
+          <mxGeometry x="120" y="50" width="50" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-72" value="仓库人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yw-2pi-LAQc_yanO8KfS-71">
-          <mxGeometry width="50" height="112.99435028248588" as="geometry" />
+          <mxGeometry width="50" height="115.2542372881356" as="geometry" />
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="Yw-2pi-LAQc_yanO8KfS-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="33.33333333333333" y="1000" as="sourcePoint" />
-            <mxPoint x="28.91766467065873" y="112.99435028248588" as="targetPoint" />
+            <mxPoint x="33.33333333333333" y="1020" as="sourcePoint" />
+            <mxPoint x="28.91766467065873" y="115.2542372881356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yw-2pi-LAQc_yanO8KfS-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Yw-2pi-LAQc_yanO8KfS-67" source="Yw-2pi-LAQc_yanO8KfS-79" target="Yw-2pi-LAQc_yanO8KfS-68">
