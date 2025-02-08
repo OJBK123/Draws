@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="26.0.11">
-  <diagram name="第 1 页" id="T9eeWWpZcgV5oXKKoXs2">
-    <mxGraphModel>
+  <diagram name="SS多品拆单合并订单" id="T9eeWWpZcgV5oXKKoXs2">
+    <mxGraphModel dx="1259" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4n0fcRy_FTq39LThsJvr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4n0fcRy_FTq39LThsJvr-1" target="4n0fcRy_FTq39LThsJvr-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4n0fcRy_FTq39LThsJvr-5" target="4n0fcRy_FTq39LThsJvr-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="115.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-5" value="SS平台录入多品订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="95" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4n0fcRy_FTq39LThsJvr-7" target="4n0fcRy_FTq39LThsJvr-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="115.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-7" value="OMS同步订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="94.99666666666674" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4n0fcRy_FTq39LThsJvr-9" target="4n0fcRy_FTq39LThsJvr-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="889.9999999999998" y="115.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-9" value="调用SS接口获取订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="94.99666666666674" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-10" value="PAT_ShipStation_Order、PAT_Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="607" y="190" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-11" value="插入FF系统数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="134.99666666666673" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4n0fcRy_FTq39LThsJvr-13" target="4n0fcRy_FTq39LThsJvr-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="115.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-13" value="待处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="829.9999999999998" y="95.16666666666674" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4n0fcRy_FTq39LThsJvr-16" target="4n0fcRy_FTq39LThsJvr-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="115.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-16" value="OMS自动拆单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="94.99666666666674" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-18" value="新增FF里的订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="95.16666666666674" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-19" value="调用SS接口修改原单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="134.99666666666673" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-20" value="调用SS接口新增订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="174.99666666666673" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n0fcRy_FTq39LThsJvr-21" value="修改FF里的订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="54.99666666666674" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
