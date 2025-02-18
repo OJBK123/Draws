@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="26.0.7" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="26.0.11" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="B2B转运">
-    <mxGraphModel dx="1799" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,8 +67,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="1040" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="811" y="1100" />
-              <mxPoint x="820" y="1100" />
+              <mxPoint x="820" y="1370" />
               <mxPoint x="820" y="600" />
             </Array>
           </mxGeometry>
@@ -76,9 +75,7 @@
         <mxCell id="Y7k-iP7Pv7-lgG9X4EsP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="VdxOH2AFOqyBAfq9SQBN-3" source="Y7k-iP7Pv7-lgG9X4EsP-30" target="vZG5apSwI-n8GqKCy2aO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="940" />
-              <mxPoint x="770" y="738" />
-              <mxPoint x="760" y="738" />
+              <mxPoint x="760" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
