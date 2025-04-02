@@ -2485,6 +2485,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UI-_-S_3wo7DsELscNLn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UI-_-S_3wo7DsELscNLn-1" target="UI-_-S_3wo7DsELscNLn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI-_-S_3wo7DsELscNLn-1" value="WMS创建转运单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="125" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UI-_-S_3wo7DsELscNLn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UI-_-S_3wo7DsELscNLn-2" target="UI-_-S_3wo7DsELscNLn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI-_-S_3wo7DsELscNLn-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UI-_-S_3wo7DsELscNLn-5" value="拣货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="125" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
