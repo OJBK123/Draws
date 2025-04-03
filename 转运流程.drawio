@@ -2481,7 +2481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ssdnZZ707MWVbPaKNpEW" name="转运操作流程">
-    <mxGraphModel dx="1049" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2557,8 +2557,10 @@
         <mxCell id="UI-_-S_3wo7DsELscNLn-17" value="待上传文件状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="124.99586206896558" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UI-_-S_3wo7DsELscNLn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UI-_-S_3wo7DsELscNLn-20" target="UI-_-S_3wo7DsELscNLn-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UI-_-S_3wo7DsELscNLn-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UI-_-S_3wo7DsELscNLn-20" target="UI-_-S_3wo7DsELscNLn-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UI-_-S_3wo7DsELscNLn-20" value="PDA-Palletize(创建托盘码）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="940.2758620689656" y="320" width="120" height="40" as="geometry" />
@@ -2618,7 +2620,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UI-_-S_3wo7DsELscNLn-42" value="WMS打印Trailer Tag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1469.996666666667" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="1470.236666666667" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UI-_-S_3wo7DsELscNLn-44" value="输入承运人、发货时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1530" y="270" width="140" height="30" as="geometry" />
@@ -2705,6 +2707,14 @@
         </mxCell>
         <mxCell id="UI-_-S_3wo7DsELscNLn-70" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1470.24" y="1220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UI-_-S_3wo7DsELscNLn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UI-_-S_3wo7DsELscNLn-75" target="UI-_-S_3wo7DsELscNLn-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI-_-S_3wo7DsELscNLn-75" value="PDA-Double Check" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
