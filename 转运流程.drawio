@@ -2950,7 +2950,7 @@
         </mxCell>
         <mxCell id="SqX6O-xQptoO1oRJxU84-8" value="原库位无库存、其他库位有库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqX6O-xQptoO1oRJxU84-7">
           <mxGeometry x="0.7848" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-385" y="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zqKAYNF5aBejec-3j3YQ-7" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;需要判断库存是否充足&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
