@@ -2998,7 +2998,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="奥创破损方案2" id="i1CzjXE6h3Jifrq0QcD5">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-5IeSNOANlI5OrUeFGmp-0" />
         <mxCell id="-5IeSNOANlI5OrUeFGmp-1" parent="-5IeSNOANlI5OrUeFGmp-0" />
@@ -3284,7 +3284,7 @@
             <mxPoint x="2000" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EtG4vyyeiGXBW9X66zQH-30" value="&lt;strike&gt;库位库存减少&lt;/strike&gt;&lt;div&gt;&lt;strike&gt;库存占用减少&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;系统占用减少&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;系统库存减少&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="-5IeSNOANlI5OrUeFGmp-1">
+        <mxCell id="EtG4vyyeiGXBW9X66zQH-30" value="库位库存减少&lt;div&gt;库存占用减少&lt;/div&gt;&lt;div&gt;系统占用减少&lt;/div&gt;&lt;div&gt;系统库存减少&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="-5IeSNOANlI5OrUeFGmp-1">
           <mxGeometry x="1940" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EtG4vyyeiGXBW9X66zQH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="EtG4vyyeiGXBW9X66zQH-36" target="EtG4vyyeiGXBW9X66zQH-38" parent="-5IeSNOANlI5OrUeFGmp-1">
@@ -3300,7 +3300,7 @@
             <mxPoint x="1410" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EtG4vyyeiGXBW9X66zQH-38" value="减少系统库存&lt;div&gt;减少系统占用&lt;/div&gt;&lt;div&gt;减少TBD-B2C库存&lt;/div&gt;&lt;div&gt;减少TBD-B2C的占用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="-5IeSNOANlI5OrUeFGmp-1">
+        <mxCell id="EtG4vyyeiGXBW9X66zQH-38" value="&lt;strike&gt;减少系统库存&lt;/strike&gt;&lt;div&gt;&lt;strike&gt;减少系统占用&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;减少TBD-B2C库存&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;减少TBD-B2C的占用&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="-5IeSNOANlI5OrUeFGmp-1">
           <mxGeometry x="1350" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EtG4vyyeiGXBW9X66zQH-39" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-5IeSNOANlI5OrUeFGmp-1">
