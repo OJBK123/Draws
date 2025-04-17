@@ -2879,7 +2879,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jxeQyx-Bgo3GDjJDXQYz-22" value="破损-Move" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="827" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jxeQyx-Bgo3GDjJDXQYz-24" value="TBD-Damage库存增加" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="815.5" y="920" width="143" height="40" as="geometry" />
@@ -2979,10 +2979,10 @@
         <mxCell id="zqKAYNF5aBejec-3j3YQ-16" value="正常库位库存移动到TBD-B2C" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SqX6O-xQptoO1oRJxU84-3" value="增加系统占用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="SqX6O-xQptoO1oRJxU84-3" value="&lt;strike&gt;增加系统占用&lt;/strike&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="827" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SqX6O-xQptoO1oRJxU84-4" value="增加库位占用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="SqX6O-xQptoO1oRJxU84-4" value="&lt;strike&gt;增加库位占用&lt;/strike&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="827" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SqX6O-xQptoO1oRJxU84-6" value="不影响库存，不生成重新上架任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
