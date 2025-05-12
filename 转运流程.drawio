@@ -3512,7 +3512,7 @@
             <mxPoint x="465.3333333333335" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-7" value="不影响系统占用，不影响库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-6">
+        <mxCell id="OE9lLGqscmyGieCECUPz-7" value="订单不占用系统占用和库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-6">
           <mxGeometry x="-0.2514" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
