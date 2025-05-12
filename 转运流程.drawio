@@ -3487,7 +3487,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="盘实确认逻辑 的副本" id="uh8uMeO_XUA4ORFEEd7Z">
-    <mxGraphModel dx="2548" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2917" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OE9lLGqscmyGieCECUPz-0" />
         <mxCell id="OE9lLGqscmyGieCECUPz-1" parent="OE9lLGqscmyGieCECUPz-0" />
@@ -3540,7 +3540,7 @@
             <mxPoint x="74" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-12" value="影响占用的各个情况情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
+        <mxCell id="OE9lLGqscmyGieCECUPz-12" value="影响占用的各个情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
           <mxGeometry x="260" y="65" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OE9lLGqscmyGieCECUPz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OE9lLGqscmyGieCECUPz-1" source="OE9lLGqscmyGieCECUPz-14" target="OE9lLGqscmyGieCECUPz-15">
@@ -3809,12 +3809,12 @@
             <mxPoint x="1875.4705882352941" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-5" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_S2ZCIcfd0JlK_xU4Gx6-4">
+        <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-5" value="订单不占用系统占用、不占用库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_S2ZCIcfd0JlK_xU4Gx6-4">
           <mxGeometry x="-0.258" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="99" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-0" value="继续检查是否影响系统占用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
+        <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-0" value="继续检查影响占用的各个情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
           <mxGeometry x="1750" y="900" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="_S2ZCIcfd0JlK_xU4Gx6-7" target="_S2ZCIcfd0JlK_xU4Gx6-8" parent="OE9lLGqscmyGieCECUPz-1">
@@ -3836,7 +3836,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-10" value="需要减少系统占用，不减少库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_S2ZCIcfd0JlK_xU4Gx6-9">
+        <mxCell id="_S2ZCIcfd0JlK_xU4Gx6-10" value="订单只占用了系统库存，不占用库位库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_S2ZCIcfd0JlK_xU4Gx6-9">
           <mxGeometry x="-0.354" y="2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
