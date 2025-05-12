@@ -3535,7 +3535,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-11" value="订单生成拣货单，占用了库位占用和系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-10">
+        <mxCell id="OE9lLGqscmyGieCECUPz-11" value="订单生成拣货单，占用了库位库存和系统库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-10">
           <mxGeometry x="-0.2651" y="2" relative="1" as="geometry">
             <mxPoint x="74" y="-8" as="offset" />
           </mxGeometry>
