@@ -3487,7 +3487,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="盘实确认逻辑 的副本" id="uh8uMeO_XUA4ORFEEd7Z">
-    <mxGraphModel dx="3265" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2548" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OE9lLGqscmyGieCECUPz-0" />
         <mxCell id="OE9lLGqscmyGieCECUPz-1" parent="OE9lLGqscmyGieCECUPz-0" />
@@ -3522,7 +3522,7 @@
             <mxPoint x="1241" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-9" value="需要减少系统占用，不减少库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-8">
+        <mxCell id="OE9lLGqscmyGieCECUPz-9" value="订单只占用了系统占用，不占用库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-8">
           <mxGeometry x="-0.5822" y="1" relative="1" as="geometry">
             <mxPoint x="74" y="-4" as="offset" />
           </mxGeometry>
@@ -3535,9 +3535,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-11" value="需要减少库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-10">
+        <mxCell id="OE9lLGqscmyGieCECUPz-11" value="订单生成拣货单，占用了库位占用和系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-10">
           <mxGeometry x="-0.2651" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="74" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OE9lLGqscmyGieCECUPz-12" value="影响占用的各个情况情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
