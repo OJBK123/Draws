@@ -3522,7 +3522,7 @@
             <mxPoint x="840" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-9" value="影响系统占用，不影响库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-8">
+        <mxCell id="OE9lLGqscmyGieCECUPz-9" value="需要减少系统占用，不减少库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-8">
           <mxGeometry x="-0.5822" y="1" relative="1" as="geometry">
             <mxPoint x="74" y="-4" as="offset" />
           </mxGeometry>
@@ -3536,12 +3536,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-11" value="影响库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-10">
+        <mxCell id="OE9lLGqscmyGieCECUPz-11" value="需要减少库位占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OE9lLGqscmyGieCECUPz-10">
           <mxGeometry x="-0.2651" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OE9lLGqscmyGieCECUPz-12" value="是否影响占用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
+        <mxCell id="OE9lLGqscmyGieCECUPz-12" value="盘亏时，影响占用的情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OE9lLGqscmyGieCECUPz-1">
           <mxGeometry x="400" y="65" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OE9lLGqscmyGieCECUPz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OE9lLGqscmyGieCECUPz-1" source="OE9lLGqscmyGieCECUPz-14" target="OE9lLGqscmyGieCECUPz-15">
