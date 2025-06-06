@@ -215,7 +215,7 @@
         <mxCell id="6b_HaOH0MpqOQaZXL_W9-72" value="减少拣货库位的在库库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1290" y="200" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6b_HaOH0MpqOQaZXL_W9-73" value="减少拣货库位的zhan&#39;y库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="6b_HaOH0MpqOQaZXL_W9-73" value="减少拣货库位的占用库存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1290" y="250" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
