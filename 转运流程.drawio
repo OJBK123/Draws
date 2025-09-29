@@ -1000,7 +1000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="B2B转运（新）" id="U7jzffYWbIrPYgmzPsth">
-    <mxGraphModel dx="1522" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SmG5ro-B7gGO3XnEY7YP-0" />
         <mxCell id="SmG5ro-B7gGO3XnEY7YP-1" parent="SmG5ro-B7gGO3XnEY7YP-0" />
@@ -1197,7 +1197,7 @@
         <mxCell id="SmG5ro-B7gGO3XnEY7YP-44" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SmG5ro-B7gGO3XnEY7YP-22">
           <mxGeometry x="1220" y="204.99999999999997" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SmG5ro-B7gGO3XnEY7YP-45" value="拣货单删除缺货标记" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SmG5ro-B7gGO3XnEY7YP-22">
+        <mxCell id="SmG5ro-B7gGO3XnEY7YP-45" value="拣货单删除缺货标记，库位取消缺货标记" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SmG5ro-B7gGO3XnEY7YP-22">
           <mxGeometry x="340" y="239.99999999999997" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmG5ro-B7gGO3XnEY7YP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SmG5ro-B7gGO3XnEY7YP-22" source="SmG5ro-B7gGO3XnEY7YP-47" target="SmG5ro-B7gGO3XnEY7YP-62">
@@ -1292,7 +1292,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmG5ro-B7gGO3XnEY7YP-70" value="缺货的转运拣货单变更为缺货拣货状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="SmG5ro-B7gGO3XnEY7YP-22">
+        <mxCell id="SmG5ro-B7gGO3XnEY7YP-70" value="缺货的转运拣货单变更为缺货拣货状态，库位取消缺货标记" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SmG5ro-B7gGO3XnEY7YP-22">
           <mxGeometry x="410" y="165" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmG5ro-B7gGO3XnEY7YP-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SmG5ro-B7gGO3XnEY7YP-22" source="SmG5ro-B7gGO3XnEY7YP-28" target="SmG5ro-B7gGO3XnEY7YP-70">
