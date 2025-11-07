@@ -47,6 +47,9 @@
         <mxCell id="9V80qaUoLVmCB_Lk4Zh9-9" value="拣货单的Status=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="235.00333333333336" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m-wxT4Zg_Zq8XHTCcLBM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9V80qaUoLVmCB_Lk4Zh9-13" target="m-wxT4Zg_Zq8XHTCcLBM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9V80qaUoLVmCB_Lk4Zh9-13" value="拣货完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="195.33333333333337" width="120" height="40" as="geometry" />
         </mxCell>
