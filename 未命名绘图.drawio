@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="29.1.1" pages="2">
   <diagram name="第 1 页" id="0d1MIG9jIN_AmThlqFSs">
-    <mxGraphModel dx="1480" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="开始" vertex="1">
-          <mxGeometry height="50" width="70" x="90" y="130" as="geometry" />
+          <mxGeometry height="50" width="70" x="100" y="130" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-4" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-5">
           <mxGeometry relative="1" as="geometry">
@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="WMS创建Transload出运单+转运单（只有主表信息没有明细、转运状态再待打托状态）" vertex="1">
-          <mxGeometry height="40" width="260" x="200" y="135" as="geometry" />
+          <mxGeometry height="40" width="260" x="220" y="135" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-6" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-7">
           <mxGeometry relative="1" as="geometry">
@@ -62,54 +62,54 @@
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-16" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1540" y="155" as="targetPoint" />
+            <mxPoint x="310" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b8V-dkmXRjkAo6lOrGCm-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="转运单根据出运单实际收货情况自动生成拣货数据" vertex="1">
-          <mxGeometry height="40" width="120" x="1350" y="135" as="geometry" />
+        <mxCell id="b8V-dkmXRjkAo6lOrGCm-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="转运单根据出运单实际收货情况自动生成拣货数据+转运SKU数据" vertex="1">
+          <mxGeometry height="55" width="120" x="120" y="267.5" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-18" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1790" y="155" as="targetPoint" />
+            <mxPoint x="560" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="转运单打托，根据实际情况创建托盘（常规or非常规）" vertex="1">
-          <mxGeometry height="40" width="160" x="1510" y="135" as="geometry" />
+          <mxGeometry height="40" width="160" x="280" y="275" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-20" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1950" y="155" as="targetPoint" />
+            <mxPoint x="720" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="打托完成后，进入待上传文件" vertex="1">
-          <mxGeometry height="40" width="120" x="1730" y="135" as="geometry" />
+          <mxGeometry height="40" width="120" x="500" y="275" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-22" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2070" y="155" as="targetPoint" />
+            <mxPoint x="840" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="文件上传后进入待发货" vertex="1">
-          <mxGeometry height="40" width="120" x="1890" y="135" as="geometry" />
+          <mxGeometry height="40" width="120" x="660" y="275" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-24" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2280" y="155" as="targetPoint" />
+            <mxPoint x="1050" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="装车扫描" vertex="1">
-          <mxGeometry height="40" width="120" x="2070" y="135" as="geometry" />
+          <mxGeometry height="40" width="120" x="840" y="275" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-26" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2410" y="155" as="targetPoint" />
+            <mxPoint x="1180" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="发货完成" vertex="1">
-          <mxGeometry height="40" width="120" x="2220" y="135" as="geometry" />
+          <mxGeometry height="40" width="120" x="990" y="275" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="结束" vertex="1">
-          <mxGeometry height="50" width="70" x="2375" y="130" as="geometry" />
+          <mxGeometry height="50" width="70" x="1145" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
