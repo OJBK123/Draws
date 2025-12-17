@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="转运单打托，根据实际情况创建托盘（常规or非常规）" vertex="1">
-          <mxGeometry height="40" width="160" x="280" y="275" as="geometry" />
+          <mxGeometry height="40" width="160" x="290" y="275" as="geometry" />
         </mxCell>
         <mxCell id="b8V-dkmXRjkAo6lOrGCm-20" edge="1" parent="1" source="b8V-dkmXRjkAo6lOrGCm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b8V-dkmXRjkAo6lOrGCm-21">
           <mxGeometry relative="1" as="geometry">
